@@ -16,6 +16,7 @@
 		F7A49CC027A5A00700601D95 /* InstagramTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7A49CBF27A5A00700601D95 /* InstagramTests.swift */; };
 		F7A49CCA27A5A00700601D95 /* InstagramUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7A49CC927A5A00700601D95 /* InstagramUITests.swift */; };
 		F7A49CCC27A5A00700601D95 /* InstagramUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7A49CCB27A5A00700601D95 /* InstagramUITestsLaunchTests.swift */; };
+		F7A49CD927A5A0A500601D95 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F7A49CD827A5A0A500601D95 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -48,6 +49,7 @@
 		F7A49CC527A5A00700601D95 /* InstagramUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = InstagramUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F7A49CC927A5A00700601D95 /* InstagramUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramUITests.swift; sourceTree = "<group>"; };
 		F7A49CCB27A5A00700601D95 /* InstagramUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InstagramUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		F7A49CD827A5A0A500601D95 /* HomeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -101,6 +103,7 @@
 				F7A49CA927A5A00600601D95 /* InstagramApp.swift */,
 				F7A49CAB27A5A00600601D95 /* ContentView.swift */,
 				F7A49CAD27A5A00700601D95 /* Assets.xcassets */,
+				F7A49CD827A5A0A500601D95 /* HomeView.swift */,
 				F7A49CB227A5A00700601D95 /* Persistence.swift */,
 				F7A49CB427A5A00700601D95 /* Instagram.xcdatamodeld */,
 				F7A49CAF27A5A00700601D95 /* Preview Content */,
@@ -266,6 +269,7 @@
 				F7A49CB627A5A00700601D95 /* Instagram.xcdatamodeld in Sources */,
 				F7A49CB327A5A00700601D95 /* Persistence.swift in Sources */,
 				F7A49CAC27A5A00700601D95 /* ContentView.swift in Sources */,
+				F7A49CD927A5A0A500601D95 /* HomeView.swift in Sources */,
 				F7A49CAA27A5A00600601D95 /* InstagramApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
